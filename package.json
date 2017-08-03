@@ -1,0 +1,19 @@
+{
+  "name": "baresoil-plugin-docker-sandbox",
+  "version": "1.0.0",
+  "description": "Docker-based sandbox implementation for Baresoil Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Run tests through baresoil-server\" && exit 1"
+  },
+  "keywords": [
+    "baresoil-server",
+    "plugin",
+    "docker"
+  ],
+  "author": "Mayank Lahiri <mayank@iceroad.io>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
