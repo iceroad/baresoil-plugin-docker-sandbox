@@ -1,6 +1,6 @@
 {
   "name": "baresoil-plugin-docker-sandbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Docker-based sandbox implementation for Baresoil Server.",
   "main": "index.js",
   "scripts": {
